@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-eldu35.episouthflorida.com/sitemap.xml
